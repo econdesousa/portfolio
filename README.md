@@ -1,4 +1,6 @@
-Here are some iPython Notebooks to solve data science problems.
+Here I intend to store my data science portfolio. 
+For now, it's just a *work in progress*!!!
+
 
 # Contents
  - ## “Classical” Machine Learning
