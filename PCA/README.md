@@ -3,4 +3,4 @@
 
 # PCA using custom class (and sklearn!!!)
 
-Principal Component Analysis is here explored in a custom class 
+[Principal Component Analysis](https://github.com/econdesousa/portfolio/blob/main/PCA/PCA.ipynb) is here explored in a custom class 
