@@ -21,6 +21,7 @@ For now, this is just a *work in progress*!!!
 
 ## Code Snippets and tutorials
    - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy): Tutorial on numpy.
+   - [Intro to Pandas](https://github.com/econdesousa/portfolio/tree/main/Intro-to-Pandas): Tutorial on Pandas.
 
 
 ## Image Analysis
