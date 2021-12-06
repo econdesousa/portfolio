@@ -19,6 +19,10 @@ For now, this is just a *work in progress*!!!
 ## Deep Learning
    - [ONNX classifier](https://github.com/econdesousa/portfolio/blob/main/ONNXclassifier): Sharing DL models between frameworks or programming languages. Here an ONNX model exported from MATLAB and used in Python.
 
+## Code Snippets and small tutorials
+   - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy): Tutorial on numpy.
+
+
 ## Image Analysis
    - [ImageJ workflows](https://github.com/econdesousa/ImageAnalysis): Collection of ImageJ workflows to solve problems in image analysis.
 
