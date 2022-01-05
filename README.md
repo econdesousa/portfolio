@@ -11,7 +11,7 @@ For now, this is just a *work in progress*!!!
 # Contents
 ## Databases
    - [SQLite3: database interaction from Python](https://github.com/econdesousa/portfolio/blob/main/SQLite3-database-interaction-from-Python): covering how to use SQLite3 to interact with a database in python
-   - [4SpecID](https://github.com/4specid/4specid): a C++ software developed to audit and annotat databases published [here](https://www.mdpi.com/2073-4425/12/1/61).
+   - [4SpecID](https://github.com/4specid/4specid): a C++ software developed to audit and annotate databases published [here](https://www.mdpi.com/2073-4425/12/1/61).
 ## Data Visualization
    - [ViolinPlot vs BoxPlot](https://github.com/econdesousa/portfolio/tree/main/DataVisualization/ViolinPlot_vs_BoxPlot): covering how to visualize data in boxplots or violinplots
 ## “Classical” Machine Learning
